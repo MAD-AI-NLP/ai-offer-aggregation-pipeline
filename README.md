@@ -1,5 +1,9 @@
 # Social Offer Intelligence — Aggregation Pipeline
 
+
+https://github.com/user-attachments/assets/50e69d57-dac0-44c1-b983-a76bd9b288db
+
+
 An LLM-powered data pipeline that discovers commercial social-media accounts,
 scrapes their posts, and turns unstructured promotional text into clean,
 normalized, publishable offers — operated through a real-time admin dashboard.
